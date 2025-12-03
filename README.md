@@ -4,7 +4,7 @@
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,py" />
+    <img src="https://skillicons.dev/icons?i=c,js,py,postgres" />
   </a>
 </p>
 <hr>
