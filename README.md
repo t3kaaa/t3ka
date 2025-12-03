@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
   </a>
 </p>
-
+---
 <hr>
 
 <p align="center">
