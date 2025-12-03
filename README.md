@@ -19,10 +19,22 @@
 
 <hr>
 <br>
+
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,py,windows,kali" />
+    <img src="https://skillicons.dev/icons?i=c,js,py" />
   </a>
 </p>
 <hr>
+
+
+### ⚙️ Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
+  </a>
+</p>
+
+---
+
