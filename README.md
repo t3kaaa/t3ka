@@ -19,10 +19,10 @@
 
 <p align="center">
   <a href="https://github.com/t3kaaa">
-    <img src="https://komarev.com/ghpvc/?username=Saboo24&color=3a8296&label=Profile%20Views" />
+    <img src="https://komarev.com/ghpvc/?username=t3kaaa&color=3a8296&label=Profile%20Views" />
   </a>
   <a href="https://github.com/t3kaaa">
-    <img src="https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers&color=3a8296&style=flat" />
+    <img src="https://img.shields.io/github/followers/t3kaaa?label=GitHub%20Followers&color=3a8296&style=flat" />
   </a>
 </p>
 
