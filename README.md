@@ -9,7 +9,7 @@
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,py,postgres" />
+    <img src="https://skillicons.dev/icons?i=c,py,postgres,django" />
   </a>
 </p>
 <hr>
