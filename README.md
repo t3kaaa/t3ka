@@ -50,3 +50,6 @@ I'm t3kaa, and 2nd-year Computer Science student , aslo  Backend Developer
 
 ---
 
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
