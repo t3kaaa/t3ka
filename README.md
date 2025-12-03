@@ -1,5 +1,5 @@
 <div align="center">
-      ### hi,Buddy
+     ### 🧠 Skills
 </div>
         
 <hr>
